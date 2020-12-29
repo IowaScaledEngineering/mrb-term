@@ -1,4 +1,4 @@
-schematics mrb-rj45.sch
-output-name ../pcb/mrb-rj45
+schematics mrb-term.sch
+output-name ../pcb/mrb-term
 skip-m4
-elements-dir ../../../footprints
+elements-dir ../../ise-footprints
