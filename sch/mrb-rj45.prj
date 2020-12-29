@@ -1,0 +1,4 @@
+schematics mrb-rj45.sch
+output-name ../pcb/mrb-rj45
+skip-m4
+elements-dir ../../../footprints
